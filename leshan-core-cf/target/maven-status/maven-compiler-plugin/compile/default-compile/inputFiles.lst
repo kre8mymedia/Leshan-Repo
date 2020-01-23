@@ -1,0 +1,12 @@
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AsyncRequestObserver.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/DefaultEndpointFactory.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/SyncRequestObserver.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/ResponseCodeUtil.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapSyncRequestObserver.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointFactory.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapAsyncRequestObserver.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointContextUtil.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/Lwm2mEndpointContextMatcher.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AbstractRequestObserver.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapResponseCallback.java
+/home/sk8er71091/leshan/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/LwM2mCoapResource.java

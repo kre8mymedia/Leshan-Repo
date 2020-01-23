@@ -1,0 +1,12 @@
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClientBuilder.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/RootResource.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LwM2mClientCoapResource.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/request/CoapRequestBuilder.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/CaliforniumEndpointsManager.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/object/ResourceObserveFilter.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/request/LwM2mClientResponseBuilder.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClient.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/object/ObjectResource.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/request/CaliforniumLwM2mRequestSender.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/SecurityObjectPskStore.java
+/home/sk8er71091/leshan/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/bootstrap/BootstrapResource.java
